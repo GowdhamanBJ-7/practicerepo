@@ -3,3 +3,5 @@ correct commit 1
 correct commit 2
 
 wrong commit 1
+
+correct commit 3
