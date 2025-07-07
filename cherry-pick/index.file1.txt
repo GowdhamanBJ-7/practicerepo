@@ -1,5 +1,9 @@
 line one
 
+<<<<<<< HEAD
 second line
 
 third line
+=======
+second line
+>>>>>>> 5c21af1 (second line added in indexfile)
