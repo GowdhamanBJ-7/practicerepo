@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 index file
+=======
+first commit
+
+second commit
+
+third commit
+>>>>>>> 966c72b1840ac6c196717836c4f888d757edd2ae
